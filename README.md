@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/gungaming/gungaming"/> 
- <img src="https://badges.pufler.dev/years/gungaming"/>
+<!--  <img src="https://badges.pufler.dev/years/gungaming"/> -->
  <img src="https://badges.pufler.dev/repos/gungaming"/>
- <img src="https://badges.pufler.dev/commits/monthly/gungaming" />
+<!--  <img src="https://badges.pufler.dev/commits/monthly/gungaming" /> -->
 
 </p>
 
