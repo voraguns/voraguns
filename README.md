@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=gungaming&theme=tokyonight">
+ <img src="https://activity-graph.herokuapp.com/graph?username=gungaming&theme=redical">
 </p> 
 
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
