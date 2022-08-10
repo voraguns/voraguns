@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  I'm a 4th year student pursuing Bachelor of Science Programme in Information Technology 🎓 from King Mongkut's University of Technology Thonburi, Thailand 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I'm currently into Game Development and Web Development. 🕸️ 
+  I'm a Graduate student. Bachelor of Science Programme in Information Technology 🎓 from King Mongkut's University of Technology Thonburi, Thailand 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I'm currently into Java Springboot Apllication and Java Springboot Web Service devlopment. 🕸️ 
 </p>  
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
